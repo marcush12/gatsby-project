@@ -8,7 +8,7 @@ module.exports = {
       "Explore awesome worldwide tours & discover what makes each of them unique. Forget your daily routine & say yes to adventure",
     author: "@johndoe",
     twitterUsername: "@marcos012santos",
-    image: "defaultBcg.jpeg",
+    image: "/defaultBcg.jpeg",
     siteUrl: "https://marcos-gatsby-project.netlify.com",
   },
   plugins: [
