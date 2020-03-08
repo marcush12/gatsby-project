@@ -1,8 +1,8 @@
 import React from "react"
-import links from "../constants/links"
 import styles from "../css/footer.module.css"
+import links from "../constants/links"
 import socialIcons from "../constants/social-icons"
-import AniLink from "gatsby-plugin-transition-link/AniLink";
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 const Footer = () => {
   return (

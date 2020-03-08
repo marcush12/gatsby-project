@@ -1,8 +1,6 @@
 import React from "react"
 import styled from "styled-components"
-
 const Title = ({ title, subtitle, className }) => {
-  // about, us
   return (
     <div className={className}>
       <h4>
@@ -35,5 +33,3 @@ export default styled(Title)`
     }
   }
 `
-
-// export default Title
